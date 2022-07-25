@@ -27,7 +27,7 @@ class DicePage extends StatelessWidget {
           padding: EdgeInsets.all(10),
         )),
         Expanded(
-            child: Padding(
+            child: FlatButton(
           child: Image.asset('images/dice2.png'),
           padding: EdgeInsets.all(10),
         )),
