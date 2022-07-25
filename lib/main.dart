@@ -45,7 +45,7 @@ class _DicePageState extends State<DicePage> {
               rightDiceNumber = 6;
             }),
           },
-          child: Image.asset('images/dice$leftDiceNumber.png'),
+          child: Image.asset('images/dice$rightDiceNumber.png'),
         )),
       ],
     ));
